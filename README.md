@@ -1,4 +1,4 @@
-Source Monitor Plugin for AviUtl2
+AviUtl2 Source Monitor (Plugin)
 ==================================
 作：映像学区 https://eizo-gak.com
 
