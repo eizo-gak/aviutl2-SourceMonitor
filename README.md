@@ -4,6 +4,10 @@ Source Monitor Plugin for AviUtl2
 
 　
 
+![img](スクリーンショット.JPG)
+
+　
+
 概要
 ----
 AviUtl2用のソースモニタープラグインです。
